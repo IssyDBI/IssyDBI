@@ -1,4 +1,4 @@
-## Hi there, My name is Precious 👋
+## Hi there, My name is Isioma 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;4%2B+Years+in+Analytics+%26+Optimization;Power+BI+Certified+Professional" alt="Typing SVG" />
