@@ -36,7 +36,7 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 
 ## 🛠️ Technical Skillset
 
-*This section uses Shields.io badges. You can customize them or create your own!*
+<!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
 #### Data Analysis & Visualization
 <p>
